@@ -1,3 +1,11 @@
+\*
+  Algoritmo para Aleatóriedade de Arduino
+  Por Thigo Barros
+  Três Leds Vão Piscar Aleatóriamente em Uma Seqência de 5 Rodadas
+  
+*\
+
+
 void setup() {
   Serial.begin(9600);
   pinMode(13, OUTPUT);
